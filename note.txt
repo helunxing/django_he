@@ -4,3 +4,10 @@ python manage.py runserver
 https://github.com/maxwelld90/tango_with_django_2_code/tree/master/progress_tests
 
 python manage.py test rango.tests_chapter
+
+name: h
+mail: 2571675H@student.gla.ac.uk
+pwd: hdds
+
+Creating and Updating Models/Tables
+python manage.py makemigrations rango
